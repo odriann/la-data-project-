@@ -1,0 +1,45 @@
+body {
+    background: white;
+    font-family: helvetica;
+}
+
+h1 {
+    margin:0 !important;
+    padding: 40px;
+    font-size: 40px !important;
+    /*background-color:*/
+}
+
+li {
+    list-style-type: none;
+}
+
+#card-div {
+    margin: 0 !important;
+    padding: 50px;
+    background-color: #e65100;
+}
+
+.card {
+    margin: 0 auto !important;
+    width: 300px;
+}
+
+iframe {
+    margin: 0 !important;
+    float: left !important;
+    width: 30%;
+    height: 30rem;
+}
+
+#about {
+    float: right !important;
+    width: 70% !important;
+    height: 20rem;
+}
+
+#featured {
+    text-align: center;
+    padding: 80px;
+    background-color: #eeeeee;
+}
